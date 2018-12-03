@@ -1,3 +1,24 @@
 html {
   text-align: center;
 }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+
+.navigation {
+  font-size: 18px;
+}
+
+.header {
+  color: white;
+  font-family: helvetica;
+  background-image: url("/Users/theo/Documents/Projects/Broadway/resources/images/the-flatiron-building.png");
+}
