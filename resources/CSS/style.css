@@ -39,3 +39,8 @@ h4 {
   font-family: helvetica;
   font-size: 14px;
 }
+
+.subheader {
+  font-size: 23px;
+  font-weight: bold;
+}
