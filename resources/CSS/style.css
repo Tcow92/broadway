@@ -12,6 +12,18 @@ a {
   font-size: 18px;
 }
 
+h3 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
 
 .navigation {
   font-size: 18px;
@@ -21,4 +33,9 @@ a {
   color: white;
   font-family: helvetica;
   background-image: url("/Users/theo/Documents/Projects/Broadway/resources/images/the-flatiron-building.png");
+}
+
+.description {
+  font-family: helvetica;
+  font-size: 14px;
 }
